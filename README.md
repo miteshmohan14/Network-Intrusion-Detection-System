@@ -62,6 +62,7 @@ Network-Intrusion-Detection-System/
 
 
 ## Detection Modules
+<img width="713" height="335" alt="startup png" src="https://github.com/user-attachments/assets/f4760dba-cdcc-4bb7-ab99-963c8da97b94" />
 
 
 ### Protocol Identifier
@@ -83,14 +84,20 @@ Monitors ARP packets to identify conflicting MAC-IP mappings indicative of ARP s
 ### ICMP Flood Detector
 
 Counts ICMP Echo Requests and raises alerts when the threshold is exceeded.
+<img width="786" height="432" alt="icmp png" src="https://github.com/user-attachments/assets/aa75da57-7d09-4def-bfce-2fe4372775e9" />
+
 
 ### DNS Monitor
 
 Extracts and displays DNS queries from captured packets.
+<img width="810" height="718" alt="dns png" src="https://github.com/user-attachments/assets/b7ce6567-4694-45d9-8323-4402588c19d0" />
+
 
 ### HTTP Monitor
 
 Monitors HTTP requests and extracts useful information from network traffic.
+<img width="862" height="936" alt="http png" src="https://github.com/user-attachments/assets/9c89a0e1-bdba-4caa-b322-b42fb18b59d5" />
+
 
 ### Signature-Based Detector
 
@@ -99,6 +106,8 @@ Matches captured packets against predefined attack signatures.
 ### Rule Engine
 
 Applies custom detection rules stored in `rules.txt`.
+<img width="577" height="307" alt="rules png" src="https://github.com/user-attachments/assets/abf5664b-88b9-45a7-9b08-1d5015b31b28" />
+
 
 ### Blacklist Detector
 
@@ -111,6 +120,8 @@ Detects unusual traffic patterns based on configurable thresholds.
 ### Traffic Statistics
 
 Maintains statistics including packet count, protocol distribution, and traffic volume.
+<img width="1918" height="842" alt="captures png" src="https://github.com/user-attachments/assets/8ab699e4-c5ee-4464-9089-230a941d080a" />
+
 
 ---
 
