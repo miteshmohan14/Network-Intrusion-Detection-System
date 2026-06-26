@@ -1,0 +1,26 @@
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Build outputs
+*.obj
+*.exe
+*.ilk
+*.idb
+*.pdb
+
+# Logs
+*.log
+logs/
+
+# Packet captures
+captures/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# User settings
+*.user
