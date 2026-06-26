@@ -58,9 +58,11 @@ Network-Intrusion-Detection-System/
 └── README.md
 ```
 
----
+<img width="828" height="880" alt="project png" src="https://github.com/user-attachments/assets/afc65968-f8ab-41a7-87e9-892e3a938294" />
+
 
 ## Detection Modules
+
 
 ### Protocol Identifier
 
